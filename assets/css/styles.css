@@ -534,8 +534,11 @@ img {
 .skills__php {
   width: 95%;
 }
+.skills__typescript{
+  width: 75%;
+}
 .skills__tailwind {
-  width: 72%;
+  width: 75%;
 }
 
 .skills__figma {
