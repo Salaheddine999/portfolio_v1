@@ -525,7 +525,7 @@ img {
 }
 
 .skills__bootstrap {
-  width: 90%;
+  width: 85%;
 }
 
 .skills_laravel {
@@ -554,7 +554,12 @@ img {
 .skills__ps {
   width: 55%;
 }
-
+.skill__cypress{
+  width: 75%;
+}
+.skills__sass{
+  width: 85%;
+}
 .skill__wordpress {
   width: 95%;
 }
